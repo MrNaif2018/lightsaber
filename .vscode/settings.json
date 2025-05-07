@@ -1,0 +1,36 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "[cpp]": {
+        "editor.defaultFormatter": "xaver.clang-format"
+    },
+    "files.associations": {
+        "*.cfg": "properties",
+        "bitset": "cpp",
+        "cstddef": "cpp",
+        "functional": "cpp",
+        "tuple": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "vector": "cpp",
+        "system_error": "cpp",
+        "array": "cpp",
+        "string_view": "cpp",
+        "format": "cpp",
+        "initializer_list": "cpp",
+        "span": "cpp",
+        "regex": "cpp",
+        "*.inc": "cpp",
+        "compare": "cpp",
+        "fstream": "cpp",
+        "ostream": "cpp",
+        "ratio": "cpp",
+        "sstream": "cpp",
+        "streambuf": "cpp",
+        "typeinfo": "cpp",
+        "variant": "cpp",
+        "cmath": "cpp"
+    }
+}
